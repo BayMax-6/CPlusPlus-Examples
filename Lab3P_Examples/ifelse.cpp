@@ -20,7 +20,7 @@ double userNum;
 cout << "Please enter in a number between 1 and 3: "; 
 cin >> userNum; 
 cout << endl; 
-//if else statement 
+//if else statements 
 
 if (userNum > 3){
     cout << "Invaild input and your ability to read is failing!!!\n"; 
