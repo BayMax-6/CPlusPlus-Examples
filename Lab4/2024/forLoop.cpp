@@ -1,8 +1,8 @@
 /*
     Name: Addison Goforth
-    Date: 2/14
+    Date: 2/12/24
     Purpose: Teaching for loops
-    Files: ifelse.cpp
+    Files: forLoop.cpp
 */
 
 #include <iostream> 
@@ -14,7 +14,7 @@ int main(){
 
     int userNum; 
 
-    cout <<"Please enter a upper bound number: ";
+    cout <<"Enter the highest number you can think of! : ";
     cin >> userNum; 
 
 

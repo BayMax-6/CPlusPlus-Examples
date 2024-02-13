@@ -1,8 +1,8 @@
 /*
     Name: April Crockett Modified by Addison Goforth
-    Date: 2/14
+    Date: 2/12/24
     Purpose: Teaching do while loops and Explaining already given example code
-    Files: 
+    Files: doWhile.cpp
 */
 
 #include <iostream> 

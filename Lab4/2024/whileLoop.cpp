@@ -2,7 +2,7 @@
     Name: Addison Goforth
     Date: 2/14
     Purpose: Teaching while loops
-    Files: ifelse.cpp
+    Files: whileLoop.cpp
 */
 
 #include <iostream> 
@@ -23,14 +23,14 @@ int main(){
     }
 
     if (userNum > 1 && userNum < 4){
-        cout << "Great job! You will recive a good great for the lab!\n";
+        cout << "Great job! \n";
     }
     else if ( userNum > 4 && userNum < 8){
-        cout << "Amazing and Yoshi is the best ever!\n"; 
+        cout << "LEGOOOSSSS!!!\n"; 
 
     }
     else {
-        cout << "Fun fact Shrek is amazing but Donkey is better!! :)\n"; 
+        cout << "Fun fact I love fruit snacks :)\n"; 
     }
 
 
