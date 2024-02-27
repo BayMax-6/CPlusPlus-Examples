@@ -1,3 +1,10 @@
+/*
+    Name: Addison Goforth
+    Date:2/21
+    Purpose: Teaching functions
+    Files: function 1.cpp
+*/
+
 #include <iostream>
 using namespace std;
 
