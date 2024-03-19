@@ -1,7 +1,7 @@
 /*
     name: Addison Goforth
     date: 3/28/23
-    files: example3.cpp
+    files: sumArray.cpp
     purpose: playing with arrays
 */
 

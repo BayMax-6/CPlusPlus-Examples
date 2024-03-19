@@ -1,8 +1,8 @@
 /*
     name: Addison Goforth
     date: 3/28/23
-    files: example2.cpp
-    purpose: playing with arrays
+    files: sumNOTArray.cpp
+    purpose: showing why arrays make life happier
 */
 
 
