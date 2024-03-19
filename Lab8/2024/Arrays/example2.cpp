@@ -20,5 +20,3 @@ int main (){
     return 0;
 
 }
-// will output the addition of these three scores divides by 3 (59)
-// average of three scores
