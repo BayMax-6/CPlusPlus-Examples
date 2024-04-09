@@ -28,13 +28,13 @@ int main() {
 
 
     //fill the array with some values - we've done this before and it shouldn't be new!
-    for (int i = 0; i < size; ++i) {
+    for (int i = 0; i < size; i++) {
         array[i] = i + 1;
     }
 
     //print the array to the scree nice and pretty
     cout << "Array elements: ";
-    for (int i = 0; i < size; ++i) {
+    for (int i = 0; i < size; i++) {
         cout << array[i] << " ";
     }
     
