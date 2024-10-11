@@ -9,7 +9,7 @@
 
 /*
 
-while ( ENTER A CONDITION HERE ){
+while ( num > 1){
 
     ENTER WHAT YOU WANT THE LOOP TO DO HERE!
 

@@ -10,13 +10,17 @@
 using namespace std;
 
 //Function prototype of displayMessage()
-void displayMessage();
+void displayMessage(int);
 
 int main()
 {
-   cout << "Hello from main.\n";
-   displayMessage(); //function call statement
-   cout << "Back in function main again.\n";
+    int num1 = 0; 
+
+    cout << "Hello from main.\n";
+
+    displayMessage(); 
+   
+    cout << "Back in function main again.\n";
    
    return 0;
 } 
