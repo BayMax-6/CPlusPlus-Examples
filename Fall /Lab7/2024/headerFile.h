@@ -5,6 +5,10 @@
     files: Driver.cpp functions.cpp headerFile.h
 */
 
+
+#ifndef HEADERFILE_H
+#define HEADERFILE_H
+
 #include <iostream> 
 #include <cmath> 
 
@@ -15,3 +19,6 @@ using namespace std;
 void addingNumbers(int, int, int); 
 void subtractingNumbers(int, int, int); 
 void multiplyNumbers(int, int, int); 
+
+#endif
+

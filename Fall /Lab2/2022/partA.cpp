@@ -5,7 +5,7 @@ Purpose: Teaching example
 Name of File/s: partA.cpp
 */
 
-#include <iostream> 
+#include <iostream>
 #include <cmath>
 
 using namespace std;
